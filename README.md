@@ -24,8 +24,7 @@ Codecademy: HTML & CSS Introduction et plus
     <ul><h3>Mes formations</h3>
         <li>CAP serrurier chaudronnier</li>
     </ul>
-        
-    <ul><h3>Expérience professionnelle</h3>
+        <ul><h3>Expérience professionnelle</h3>
         <li>BESSON INDUSTRIE Villedieu sur Indre  (apprenti et salarié)</li>
         <li>POUJOULAT Buzançais (intérimaire)</li>
         <li>SIRAGA Buzançais (intérimaire)</li>
